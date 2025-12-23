@@ -24,7 +24,7 @@
 > [!WARNING]
 > Este repositório faz parte das [**`Traduções Comunitárias à GoldSrc`**](https://github.com/source-br/Community-Translations-for-GoldSrc). Ele foi pensado para ser usado como submódulo do repositório central do projeto no qual deve ser usado para gerenciar esse repositório.
 
-Esse projeto tem como objetivo traduzir as texturas, interface e os textos de **Half-Life** para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fã para fã.
+Esse projeto tem como objetivo traduzir as texturas, interface e os textos de **Half-Life: Blue Shift** para outros idiomas que não possuem uma tradução oficial, de maneira comunitária, de fã para fã.
 
 Essas traduções são feitas pela comunidade, este repositório agrega as texturas maneira editável `.psd`. Os textos e a interface estão no repositório de Traduções Comunitárias à GoldSrc.
 
