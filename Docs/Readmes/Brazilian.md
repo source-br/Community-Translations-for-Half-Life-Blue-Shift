@@ -13,7 +13,7 @@
 ![Title](../img/logos/title.png)
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-0149ed.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
-[![Documentação](https://img.shields.io/badge/Documentação-Wiki-0149ed.svg)](../PT-BR/Documentação.md)
+[![Documentação](https://img.shields.io/badge/Documentação-Wiki-0149ed.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 [![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-0149ed.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Blue-Shift-Brazilian.zip)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=0149ed)](https://discord.gg/tVNv6SNZZT)
 
